@@ -63,6 +63,181 @@
         ]
     },
     {
+        "text": "Mezi reálné hmotné investiční instrumenty nemůžeme zařadit",
+        "answers": [
+            {
+                "correct": false,
+                "text": "drahé kovy"
+            },
+            {
+                "correct": false,
+                "text": "automobilové veterány"
+            },
+            {
+                "correct": false,
+                "text": "nemovitosti"
+            },
+            {
+                "correct": false,
+                "text": "umělecké předměty"
+            },
+            {
+                "correct": true,
+                "text": "dluhopisy"
+            }
+        ]
+    },
+    {
+        "text": "Co je asymetrie informací?",
+        "answers": [
+            {
+                "correct": true,
+                "text": "Rozdílné množství informací, kterým disponují dvě strany v určitém kontraktu (jedna strana je lépe informovaná než druhá)"
+            },
+            {
+                "correct": false,
+                "text": "Hlavní charakteristika tzv. efektivního trhu"
+            },
+            {
+                "correct": false,
+                "text": "Základní předpoklad modelů dokonalé konkurence"
+            },
+            {
+                "correct": false,
+                "text": "Rozdíl mezi makroekonomickým a mikroekonomickým pohledem na regulaci a dohled"
+            },
+            {
+                "correct": false,
+                "text": "synonymum pro externality"
+            }
+        ]
+    },
+    {
+        "text": "Co je typické z hlediska struktury aktiv český domácností?",
+        "answers": [
+            {
+                "correct": true,
+                "text": "Značnou část finančních aktiv tvoří běžné (a obdobné) vklady v komerčních bankách"
+            },
+            {
+                "correct": false,
+                "text": "Domácnosti nevytváří a ani nedrží žádná finanční aktiva, to vytváří pouze centrální banka, když emituje mince určené do oběhu"
+            },
+            {
+                "correct": false,
+                "text": "Značnou část finančních aktiv tvoří akcie a dluhopisy"
+            },
+            {
+                "correct": false,
+                "text": "Mezi nejvýznamnější finanční aktiva v držbě domácností patří nemovitosti určené k vlastnímu bydlení, pak půda, dluhopisy a akcie"
+            },
+            {
+                "correct": false,
+                "text": "Domácnosti nevytváří a ani nedrží žádná finanční aktiva, to vytváří pouze vladní sektor při poskytování transferů obyvatelstvu"
+            }
+        ]
+    },
+    {
+        "text": "Jaké funkce patří mezi základní funkce centrální banky?",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Emistní funkce, Regulace a dohled nad bankovním (finančním) systémem, Správa státních hmotných rezerv, Reprezentant státu v měnové a fiskální oblasti"
+            },
+            {
+                "correct": false,
+                "text": "Emistní funkce, Regulace a dohled nad bankovním (finančním) systémem, Provádění fiskální politiky, Reprezentant státu v měnové oblasti"
+            },
+            {
+                "correct": false,
+                "text": "Emistní funkce, Regulace a dohled nad bankovním (finančním) systémem, Správa devizových rezerv, Provádění fiskální politiky, Reprezentant státu v měnové oblasti"
+            },
+            {
+                "correct": true,
+                "text": "Emistní funkce, Regulace a dohled nad bankovním (finančním) systémem, Správa devizových rezerv, Reprezentant státu v měnové oblasti"
+            },
+            {
+                "correct": false,
+                "text": "Emistní funkce, Regulace a dohled nad bankovním (finančním) systémem, Správa rezerv ke krytí ztrát z měnových obchodů komerčních bank, Provádění fiskální politiky, Reprezentant státu v měnové oblasti"
+            }
+        ]
+    },
+    {
+        "text": "Jaký je hlavní cíl makroprudeční politiky?",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Provádět kurzové intervence na posílení domácí měny"
+            },
+            {
+                "correct": true,
+                "text": "Zajistit finanční stabilitu"
+            },
+            {
+                "correct": false,
+                "text": "Provádět kurzové intervence na oslabení domácí měny"
+            },
+            {
+                "correct": false,
+                "text": "Stanovit takové úrokové míry, aby bylo dosaženo její stabilní dlouhodobé úrovně"
+            },
+            {
+                "correct": false,
+                "text": "Dosahovat optimálního růstu měnové báze"
+            }
+        ]
+    },
+    {
+        "text": "V rámci bilance centrální banky se na aktivech nachází",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Emitované vlastní cenné papíry"
+            },
+            {
+                "correct": false,
+                "text": "Rezervy obchodních bank"
+            },
+            {
+                "correct": false,
+                "text": "Oběživo"
+            },
+            {
+                "correct": true,
+                "text": "Devizové rezervy (rezervní aktiva, pohledávky vůči zahraničí)"
+            },
+            {
+                "correct": false,
+                "text": "Vklady státu a nebankovních subjektů"
+            }
+        ]
+    },
+       {
+        "text": "V jakém období v nedávné historii došlo k razantnímu nárůstu rezervních aktiv (devizových rezerv) České národní banky?",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Během vysoké míry inflace v letech 2021 a 2022"
+            },
+            {
+                "correct": false,
+                "text": "V rámci plánovaného vstupu do eurozóny, kdy jedním z požadavků je také dostatečná míra rezervních aktiv nového člena eurozóny"
+            },
+            {
+                "correct": false,
+                "text": "V rámci roku 2022, kdy ČNB intervenovala na devizovém trhu proti oslabení české koruny (snažila se podporovat českou korunu)"
+            },
+            {
+                "correct": false,
+                "text": "V rámci období tzv. kurzové závazku (listopad 2013 - duben 2017), kdy ČNB bránila oslabení kurzu české koruny vůči euru nad hodnotu 27 CZK/EUR (intervence proti oslabení české koruny)"
+            },
+            {
+                "correct": true,
+                "text": "V rámci období tzv. kurzové závazku (listopad 2013 - duben 2017), kdy ČNB bránila posílení kurzu české koruny vůči euru pod hodnotu 27 CZK/EUR (intervence na oslabení české koruny)"
+            }
+        ]
+    },
+    {
         "text": "Pokud platí, že cenová elasticita spotřebitele je vyšší než cenová elasticita výrobce, pak je při uložení jednotkové daně u výrobce pravdivé tvrzení (predpokládáme lineární průbeh obou křivek)",
         "answers": [
             {
@@ -88,6 +263,31 @@
         ]
     },
     {
+        "text": "Jaký je hlavní rozdíl mezi dealerským obchodem a brokerským obchodem?",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Dealerský obchod je operativním kritériem měnové politiky, brokerský obchod patří mezi předstihové indikátory měnové politiky"
+            },
+            {
+                "correct": false,
+                "text": "Dealerský obchod je regulován ČNB, brokerský obchod je regulován Pražskou burzou"
+            },
+            {
+                "correct": false,
+                "text": "Brokerský obchod je na vlastní účet a riziko, dealerský obchod je na příkaz a účet klienta"
+            },
+            {
+                "correct": false,
+                "text": "Jsou to synonyma"
+            },
+            {
+                "correct": true,
+                "text": "Dealerský obchod je na vlastní účet a riziko, brokerský obchod je na příkaz a účete klienta"
+            }
+        ]
+    },
+    {
         "text": "Při cílování inflace vystupuje:",
         "answers": [
             {
@@ -105,6 +305,56 @@
             {
                 "correct": true,
                 "text": "IR krátkodobá jako operativní kritérium"
+            }
+        ]
+    },
+    {
+        "text": "Co nepatří mezi aktiva v rámci rozvahy běžné obchodní banky",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Pokladní hotovost a pohledávky vůči centrální bance"
+            },
+            {
+                "correct": true,
+                "text": "Kapitálové fondy"
+            },
+            {
+                "correct": false,
+                "text": "Pohledávky za klienty"
+            },
+            {
+                "correct": false,
+                "text": "(Nakoupené) dluhové cenné papíry"
+            },
+            {
+                "correct": false,
+                "text": "Pohledávky za bankami"
+            }
+        ]
+    },
+    {
+        "text": "Měnové agregáty vždy zahrnují",
+        "answers": [
+            {
+                "correct": false,
+                "text": "oběživo a rezervy bank"
+            },
+            {
+                "correct": false,
+                "text": "pouze rezervy bank"
+            },
+            {
+                "correct": true,
+                "text": "oběživo a běžné vklady"
+            },
+            {
+                "correct": false,
+                "text": "rezervy bank, běžné vklady a termínované vklady"
+            },
+            {
+                "correct": false,
+                "text": "Pouze běžné vklady"
             }
         ]
     },
@@ -2138,6 +2388,31 @@
         ]
     },
     {
+        "text": "Výnosová křivka znázorňuje vztah mezi",
+        "answers": [
+            {
+                "correct": true,
+                "text": "výnosností do doby splatnosti a lhůtou splatnosti dluhopisů"
+            },
+            {
+                "correct": false,
+                "text": "úsporami a investicemi"
+            },
+            {
+                "correct": false,
+                "text": "hlavní úrokovou sazbou centrální banky a mezibankovní úrokovou míru"
+            },
+            {
+                "correct": false,
+                "text": "úrokovými sazbami z bankovních úvěrů a vkladů"
+            },
+            {
+                "correct": false,
+                "text": "vývojem nabídky a poptávky na trhu akcií"
+            }
+        ]
+    },
+    {
         "text": "Baumolův zákon",
         "answers": [
             {
@@ -2192,6 +2467,31 @@
         ]
     },
     {
+        "text": "Minimální požadovaná výše přiměřenosti kapitálu - podle pravidel Evropské unie - ",
+        "answers": [
+            {
+                "correct": false,
+                "text": "se pravidelně mění podle míry inflace"
+            },
+            {
+                "correct": false,
+                "text": "je závislá na úrokových sazbách bank"
+            },
+            {
+                "correct": false,
+                "text": "je závislá na devizové likviditě bank"
+            },
+            {
+                "correct": true,
+                "text": "může být pro banky rozdílná podle jejich velikostí"
+            },
+            {
+                "correct": false,
+                "text": "je závislá na tempu růstu nominálního HDP"
+            }
+        ]
+    },
+    {
         "text": "Aplikace pravidla jednomyslné shody:",
         "answers": [
             {
@@ -2213,6 +2513,144 @@
             {
                 "correct": true,
                 "text": "Je velmi nákladná, neboť v sobě skrývá nebezpečí vydírání ze strany jedince"
+            }
+        ]
+    },
+      {
+        "text": "Termín stagflace je označení",
+        "answers": [
+            {
+                "correct": false,
+                "text": "kombinace inflace a ekonomického poklesu"
+            },
+            {
+                "correct": false,
+                "text": "dlouhodobě neměnné míry inflace nebo deflace"
+            },
+            {
+                "correct": false,
+                "text": "kombinace deflace a ekonomické stagnace"
+            },
+            {
+                "correct": false,
+                "text": "clouhodobě trvající inflace nebo deflace"
+            },
+            {
+                "correct": true,
+                "text": "kombinace stagnace ekonomiky a dlouhodobého růstu cenové hladiny   "
+            }
+        ]
+    },
+    {
+        "text": "Hlavním nástrojem měnové politiky České národní banky v současnosti je",
+        "answers": [
+            {
+                "correct": false,
+                "text": "kvantifikovaná míra inflace"
+            },
+            {
+                "correct": true,
+                "text": "repo sazba"
+            },
+            {
+                "correct": false,
+                "text": "lombardní sazba"
+            },
+            {
+                "correct": false,
+                "text": "diskontní sazba"
+            },
+            {
+                "correct": false,
+                "text": "mezibankovní sazba"
+            }
+        ]
+    },
+    {
+        "text": "Označte správný postup výpočtu současné hodnoty peněžní častky ve výši 1500, kterou dostanete až za tři roky při zvažované úrokové sazbě 4 procenta p.a ",
+        "answers": [
+            {
+                "correct": false,
+                "text": "(1500x(3x1,04))+1500"
+            },
+            {
+                "correct": true,
+                "text": "1500/1.04 na treti"
+            },
+            {
+                "correct": false,
+                "text": "1500x1.04 na treti"
+            },
+            {
+                "correct": false,
+                "text": "1500/1.04 na treti+(1500/3)"
+            },
+            {
+                "correct": false,
+                "text": "1500x(3x1.04))-1500"
+            }
+        ]
+    },
+    {
+        "text": "Uveďte správný postup výpočtu tržní ceny dluhopisu s kuponovým listem z následujících údajů: jistina = 400, úroková sazba = 4% p.a, lhůta splatnosti = 3 roky, požadovaná výnostnost = 5% p.a",
+        "answers": [
+            {
+                "correct": false,
+                "text": "16/1,05 + 16/1,05 na druhou + 16/1,05 na třetí + 400/1.05 na třetí"
+            },
+            {
+                "correct": false,
+                "text": "jinak"
+            }
+        ]
+    },
+       {
+        "text": "Jakou částku (po zaokrouhlení) získáme v budoucnu, pokud dnes uložíme 1 000 000 Kč na dobu 5 let a úroková míra bude 10 % p.a.? Daň neuvažujeme. Uvažujeme složené úročení",
+        "answers": [
+            {
+                "correct": false,
+                "text": "620 921 Kč"
+            },
+            {
+                "correct": false,
+                "text": "1 500 000 Kč"
+            },
+            {
+                "correct": false,
+                "text": "1 000 000 Kč"
+            },
+            {
+                "correct": true,
+                "text": "1 610 510 Kč"
+            },
+            {
+                "correct": false,
+                "text": "1 051 000 Kč"
+            }
+        ]
+    },
+      {
+        "text": "Spočítejte, kolik činí vlastní kapitál obchodní banky, víme-li tyto položky zjednodušené bilance banky (vše uváděno v mld. Kč): nakoupené investiční insturmenty: 600; měnová báze: 150; přijaté vklady: 800; mezibankovní úvěry (banka je v pozici dlužníka): 400; poskytnuté úvěry klientům: 1000.",
+        "answers": [
+            {
+                "correct": false,
+                "text": "200"
+            },
+            {
+                "correct": false,
+                "text": "350"
+            },
+            {
+                "correct": false,
+                "text": "150"
+            },
+            {
+                "correct": true,
+                "text": "400"
+            },
+            {
+                "correct": false,
+                "text": "450"
             }
         ]
     },
@@ -2238,6 +2676,27 @@
         ]
     },
     {
+        "text": "Hodnota peněžního multiplikátoru pro M1 se za jinak stejných okolností nutně zvýší, pokud ",
+        "answers": [
+            {
+                "correct": false,
+                "text": "klesnou běžné vklady"
+            },
+            {
+                "correct": false,
+                "text": "klesnou devizové rezervy centrální banky"
+            },
+            {
+                "correct": true,
+                "text": "zvýší se m1"
+            },
+            {
+                "correct": false,
+                "text": "klesne m1"
+            }
+        ]
+    },
+    {
         "text": "Keynesiánský transmisivní mechanismus měnové politiky obsahuje následující řetezec kauzálních vztahů:",
         "answers": [
             {
@@ -2255,6 +2714,31 @@
             {
                 "correct": false,
                 "text": "Nástroje měnové politiky – krátkodobé úrokové sazby – inflace"
+            }
+        ]
+    },
+      {
+        "text": "Odliv zahraniční měny z ekonomiky za jinak neměných okolností vytváří tlak na",
+        "answers": [
+            {
+                "correct": false,
+                "text": "relativní posílení domácí měny"
+            },
+            {
+                "correct": false,
+                "text": "relativní oslabení zahraniční měny"
+            },
+            {
+                "correct": false,
+                "text": "revalvaci domácí měny"
+            },
+            {
+                "correct": true,
+                "text": "oslabení domácí měny a posílení zahraniční měny"
+            },
+            {
+                "correct": false,
+                "text": "posílení domácí měny a oslabení zahraniční měny"
             }
         ]
     },
